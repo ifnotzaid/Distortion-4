@@ -1,4 +1,4 @@
-# RU → EN Machine Translation (NLP Project) 🇷🇺➡️🇬🇧✨
+# RU → EN Machine Translation (NLP Project) 
 
 This repo compares **7 different machine translation approaches** on a **Russian→English** task, ranging from classic statistical baselines to strong pretrained Transformer models.
 
